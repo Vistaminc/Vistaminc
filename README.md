@@ -1,14 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B4F5&background=96FFBC00&repeat=false&width=435&lines=Welcome+to+Vistamin+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-###  我是Vistamin 🚀
-
-> 一位来自00年的前端程序员
-
-- 🌐 个人博客：[Vistamin的博客](https://blog.mitsuha.run/)
-- 🏡 潜水地点：[Vistamin AI](new.mitsuha.run)
-- 💬 我的QQ：1354006852
-- 📫 联系邮箱：1354006852@qq.com
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Vistaminc&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=longyanjiang&theme=tokyonight">
-</p>
+<div align="left">
+<img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vistaminc&amp&hide=contribs,prs;show_icons=true" height="157px" weight="200px"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistaminc&amp;layout=compact" height="157px"/>
+</div>
